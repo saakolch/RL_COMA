@@ -73,14 +73,13 @@ Neither variant fixed COMA's instability; the failure is not specific to the
 critic parameterisation or the update rule. They are reported as robustness
 checks, not in the main table, because they change the backbone.
 
-## Rebuild the documents
+## Regenerate figures and tables
+
+The report and slides are prebuilt and included here, so they do not need to be
+regenerated. The figures and tables can be refreshed from the raw results:
 
 ```bash
 # from the project root
 python analyze.py --results-dir results_final      # figures
 python make_tables.py                              # tables + results_summary.md
-python build_report.py                             # DOCX
-python build_slides.py                             # PPTX
 ```
-
-Then export to PDF with LibreOffice Kit (or open the Office files and export).
