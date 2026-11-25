@@ -1,0 +1,22 @@
+{
+  "T": 2048,
+  "gamma": 0.95,
+  "lam": 0.95,
+  "clip": 0.2,
+  "k_epochs": 4,
+  "minibatch": 64,
+  "ent_coef": 0.01,
+  "vf_coef": 0.5,
+  "lr": 0.0003,
+  "hidden": 64,
+  "iterations": 340,
+  "eval_interval": 10,
+  "eval_episodes": 20,
+  "final_eval_episodes": 100,
+  "eval_seed_base": 999,
+  "grid": 6,
+  "n_agents": 3,
+  "n_tasks": 3,
+  "max_steps": 100,
+  "results_dir": "results_final"
+}

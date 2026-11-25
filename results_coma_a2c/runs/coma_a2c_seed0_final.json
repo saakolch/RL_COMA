@@ -1,0 +1,20 @@
+{
+  "mode": "coma_a2c",
+  "seed": 0,
+  "success_rate": 0.0,
+  "mean_delivered": 0.36,
+  "mean_return": -8.199999999999987,
+  "mean_steps": 100.0,
+  "mean_contests": 0.21,
+  "deliveries_by_agent": [
+    22,
+    6,
+    8
+  ],
+  "share_0": 0.6111111111111112,
+  "share_1": 0.16666666666666666,
+  "share_2": 0.2222222222222222,
+  "gini": 0.2962962962962964,
+  "elapsed": 1824.269157409668,
+  "coma_critic": "output_heads"
+}

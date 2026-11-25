@@ -1,0 +1,19 @@
+{
+  "mode": "coma",
+  "seed": 0,
+  "success_rate": 0.28,
+  "mean_delivered": 1.82,
+  "mean_return": 1.6130000000000078,
+  "mean_steps": 86.87,
+  "mean_contests": 0.14,
+  "deliveries_by_agent": [
+    92,
+    39,
+    75
+  ],
+  "share_0": 0.44660194174757284,
+  "share_1": 0.18932038834951456,
+  "share_2": 0.3640776699029126,
+  "gini": 0.17152103559870552,
+  "elapsed": 5857.774901390076
+}

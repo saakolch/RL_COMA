@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+_smoke/
+.pytest_cache/
+.venv/
+venv/
+

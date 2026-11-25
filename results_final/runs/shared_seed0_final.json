@@ -1,0 +1,19 @@
+{
+  "mode": "shared",
+  "seed": 0,
+  "success_rate": 0.37,
+  "mean_delivered": 2.2,
+  "mean_return": 4.326000000000007,
+  "mean_steps": 81.74,
+  "mean_contests": 0.32,
+  "deliveries_by_agent": [
+    74,
+    99,
+    77
+  ],
+  "share_0": 0.296,
+  "share_1": 0.396,
+  "share_2": 0.308,
+  "gini": 0.0666666666666667,
+  "elapsed": 5685.804847717285
+}
